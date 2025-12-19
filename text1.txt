@@ -1,0 +1,1 @@
+i have created the file localy and succesfully created a repo then i linked as a remote working area. then i changed the branch name. after i pushed the all files into the new repo. 
