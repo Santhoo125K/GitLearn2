@@ -1,0 +1,1 @@
+This file was created to learn how pull request works to merage the file with main. Because i am restricted with the main branch so that i cant directly do the merge i need to raise a pull request then the manager will see the code and verify if it is all ok the he accepts the request then the my files all are merged with main.
